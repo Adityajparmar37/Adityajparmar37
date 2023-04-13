@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityajparmar37
 - 👀 I’m interested in coding and learning different skills in computer languages
-- 🌱 I’m currently learning HTML5 CSS3 and javascript
+- 🌱 I’m currently learning HTML5  , CSS3 , javascript , bootstrap and PHP Language
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can  reach me by sending Email to me adi.j.parmar@gmail.com
 
