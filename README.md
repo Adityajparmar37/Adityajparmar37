@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding and learning different skills in computer languages
 - 🌱 I’m currently learning HTML5  , CSS3 , javascript , bootstrap and PHP Language
 - 💞️ I’m looking to collaborate on web development projects
+-- want to be a Java developer 
 - 📫 You can  reach me by sending Email to me adi.j.parmar@gmail.com
 
 <!---
