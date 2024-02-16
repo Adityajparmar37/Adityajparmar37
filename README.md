@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Parmar</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
 <h3 align="center">Passionate MERN Full Stack developer with knowledge in data structures and algorithms. Experienced and learner with valuable internship insights. Ready to contribute effectively to your team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajparmar37&label=Profile%20views&color=0e75b6&style=flat" alt="adityajparmar37" /> </p>
