@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Parmar</h1>
 <div align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> 
 </div>
 
 ---
