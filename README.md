@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajparmar37&label=Profile%20views&color=0e75b6&style=flat" alt="adityajparmar37" /> </p>
 
-- 🌱 I’m currently learning **MERN , WEBRTC and DSA**
+- 🌱 I’m currently learning **MERN, Socket, WEBRTC and DSA**
 
 - 💬 Ask me about **react , nodejs and express**
 
