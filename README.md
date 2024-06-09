@@ -11,7 +11,7 @@
 
 - 🍕 Am **Open source contributor** 
   
-- 💬 Ask me about **react , nodejs and express**
+- 💬 Ask me about **reactjs, nodejs, expressjs, Javascript**
 
 - 📫 How to reach me **adiparmar107@gmail.com**
 
