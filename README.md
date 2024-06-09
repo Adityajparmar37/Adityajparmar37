@@ -3,15 +3,18 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> 
 </div>
 
-<h3 align="center">Passionate MERN Full Stack Developer. Experiencing from project and eager to learn from real-world experiences, I'm ready to contribute effectively to your team. I embrace challenges, knowing that I may fail but will always learn and grow from them.</h3>
+<h3 align="center">Passionate MERN Full Stack Developer and Open Source Contributor. Experiencing from project and eager to learn from real-world experiences, I'm ready to contribute effectively to your team. I embrace challenges, knowing that I may fail but will always learn and grow from them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajparmar37&label=Profile%20views&color=0e75b6&style=flat" alt="adityajparmar37" /> </p>
 
 - 🌱 I’m currently learning **MERN, Socket, WEBRTC and DSA**
 
+- 🍕 Am **Open source contributor** 
+  
 - 💬 Ask me about **react , nodejs and express**
 
 - 📫 How to reach me **adiparmar107@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -30,4 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajparmar37&show_icons=true&locale=en" alt="adityajparmar37" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajparmar37&" alt="adityajparmar37" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adityajparmar37" alt="Aditya's trophys" /></a> </p>
 
