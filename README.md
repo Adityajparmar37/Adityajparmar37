@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> 
 </div>
 
-<h3 align="center">Passionate MERN Full Stack Developer and Open Source Contributor. Experiencing from project and eager to learn from real-world experiences, I'm ready to contribute effectively to your team. I embrace challenges, knowing that I may fail but will always learn and grow from them.</h3>
+<h3 align="center">Passionate MERN Full Stack Developer and Open Source Contributor. Experiencing from project and eager to learn from real-world experiences. I embrace challenges, knowing that I may fail but will always learn and grow from them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajparmar37&label=Profile%20views&color=0e75b6&style=flat" alt="adityajparmar37" /> </p>
 
