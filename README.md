@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **WEBRTC and DSA**
 
-- 🍕 Am **Open source contributor** 
+- 🍕 Am **Open source contributor (beignner)** 
   
 - 💬 Ask me about **reactjs, nodejs, expressjs, Javascript, java**
 
