@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **adiparmar107@gmail.com**
 
+- 🙋🏻 Portfolio **https://parmaraditya-portfolio.netlify.app/**
+
 
 
 <h3 align="left">Connect with me:</h3>
