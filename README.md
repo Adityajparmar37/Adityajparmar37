@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **WEBRTC and DSA**
 
+- 🖥️ upcomming **Full Stack Intern @SocialPilot**
+
 - 🍕 Am **Open source contributor (beignner)** 
   
 - 💬 Ask me about **reactjs, nodejs, expressjs, Javascript, java**
