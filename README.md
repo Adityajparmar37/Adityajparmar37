@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajparmar37&label=Profile%20views&color=0e75b6&style=flat" alt="adityajparmar37" /> </p>
 
-- 🌱 I’m currently learning **WEBRTC and DSA**
+- 🌱 I’m currently learning **WEBRTC, DSA, SocialMedia API for Automation**
 
-- 🖥️ Upcomming **Full Stack Intern @SocialPilot**
+- 🖥️ **Full Stack Intern @SocialPilot**
 
 - 🍕 Am **Open source contributor (beignner)** 
   
